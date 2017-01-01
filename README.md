@@ -47,8 +47,8 @@ Khoa học tự nhiên
 
 Khoa Công Nghệ Thông Tin
 Bộ Môn Hệ Thống Thông Tin
-Họ tên			: Phạm Thành Công
-MSSV			: 1112030
-Email cá nhân 	: ptcong666@gmail.com
-SĐT 			: 0934201716
+
+Họ tên: Phạm Thành Công
+Email cá nhân: ptcong666@gmail.com
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
